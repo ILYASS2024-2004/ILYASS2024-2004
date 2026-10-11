@@ -1,95 +1,273 @@
-<div align="center">
-
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24,45&height=250&section=header&text=Ilyass%20El-Ogri&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20AI%20Engineer&descAlignY=55&descAlign=50&descFontSize=20" width="100%" alt="Header" />
-
-  <!-- Animated Typing Text -->
-  <a href="https://ilyasselogri.me">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Software+Engineering+%26+AI+Student+at+ENSA+Fez;Architecting+Autonomous+AI+Agents+%26+RAG+Systems;Crafting+Immersive+3D+Web+Experiences+(WebGL%2FThree.js);🚀+Actively+seeking+a+PFE+Internship+in+AI%2FML!" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Dynamic Social Badges -->
-  <a href="https://linkedin.com/in/ilyass-el-ogri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ilyasselogri.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-121212?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:ilyasselogri361@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
-  <br/><br/>
-</div>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> À Propos de Moi
-
-Je suis un ingénieur passionné situé à Fès, au Maroc 🇲🇦, spécialisé dans la convergence entre l'**Intelligence Artificielle de pointe** et le **Développement Logiciel**. Mon objectif est de transformer la recherche complexe (LLMs, RAG, RL) en produits interactifs, immersifs et performants.
-
-- 🎓 **Éducation :** 5ème année d'ingénierie (Génie Logiciel & IA) à l'**ENSA Fès**.
-- 💼 **Statut actuel :** À la recherche d'un **Stage PFE** (Projet de Fin d'Études) stimulant en IA / Machine Learning.
-- 💡 **Centres d'intérêt :** Agentic AI (LangGraph, CrewAI), Web 3D (Three.js), Deep Reinforcement Learning.
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Mon Écosystème Technique
+# Ilyass El-Ogri | Software Engineering & AI
 
 <div align="center">
 
-  **Intelligence Artificielle & Data**<br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn&theme=dark" />
-  </a><br/>
-  `< LangChain />` `< LangGraph />` `< CrewAI />` `< RAG />` `< HuggingFace />` `< ChromaDB />`
-  
-  <br/><br/>
-  
-  **Frontend & Expériences Immersives**<br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js,wasm&theme=dark" />
-  </a><br/>
-  `< Three.js />` `< WebGL />` `< GSAP />` `< React 19 />`
-  
-  <br/><br/>
-  
-  **Backend, Cloud & Outils**<br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,postgres,mysql,mongodb,docker,git,nginx,aws&theme=dark" />
-  </a><br/>
-  `< WebSockets />` `< REST APIs />` `< Prisma />` `< LangSmith />`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:6366F1&height=230&section=header&text=ILYASS%20EL-OGRI&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE&descAlignY=58&descSize=16" width="100%" alt="Ilyass El-Ogri — Software Engineering and AI" />
 
-</div>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Projets Phares
-
-| Projet & Description | Technologies |
-| :--- | :--- |
-| **🏛️ [MoroccoLegalAI](https://github.com/ILYASS2024-2004)** <br/> Assistant juridique IA multilingue (documents légaux marocains). Pipeline RAG hybride avancé avec recherche sémantique, BM25 et RRF. Orchestration de la réécriture de requêtes et de l'auto-correction via des flux cycliques. | `<FastAPI>` `<LangGraph>` `<ChromaDB>` `<Ollama>` `<React>` `<LangSmith>` |
-| **🎙️ [AI Voice Concierge](https://github.com/ILYASS2024-2004)** <br/> Agent conversationnel vocal bidirectionnel à latence quasi nulle. Intègre un avatar 3D avec expressions faciales dynamiques synchronisées à la voix, et un système de *Dynamic Tool Calling* en cache mémoire. | `<Gemini 2.5 Native Audio>` `<NestJS>` `<React 19>` `<Three.js>` `<WebSockets>` |
-| **🎮 [NeuralX](https://github.com/ILYASS2024-2004)** <br/> Plateforme gaming intégrant 4 environnements dynamiques pour tester et benchmarker des algorithmes de *Deep Reinforcement Learning* (entrées LiDAR virtuelles). | `<Deep RL>` `<DQN>` `<A2C>` `<Q-Learning>` `<SARSA>` |
-| **🛒 [Intelligent E-Commerce](https://github.com/ILYASS2024-2004)** <br/> Plateforme complète avec microservice de recommandation (filtrage basé sur le contenu via TF-IDF et filtrage collaboratif via K-Means). | `<Node.js>` `<Flask>` `<Scikit-learn>` `<React>` `<GSAP>` |
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Activité & Statistiques GitHub
-
-<div align="center">
-  <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ILYASS2024-2004&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ILYASS2024-2004&theme=react&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" height="190" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILYASS2024-2004&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366f1" height="170" alt="Top Languages" />
-</div>
+<a href="https://ilyasselogri.me">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Applications;Engineering+RAG+Pipelines+%26+AI+Agents;Exploring+LLMs+%26+Deep+Reinforcement+Learning;Bridging+AI+Research+and+Software+Engineering;Open+to+AI+%2F+ML+PFE+Opportunities+%E2%80%94+2027" alt="Animated introduction" />
+</a>
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Architect.gif" width="600" alt="Coding GIF">
+<a href="https://www.linkedin.com/in/ilyass-el-ogri-99637b328/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://ilyasselogri.me/"><img src="https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:ilyasselogri361@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/ILYASS2024-2004"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+**5th-Year Engineering Student @ ENSA Fez, Morocco**
+
+*AI Engineering · Generative AI · RAG Systems · Full Stack Development*
+
 </div>
 
+---
+
+## `$ whoami`
+
+```python
+class IlyassElOgri:
+    def __init__(self):
+        self.role = "Software Engineering & AI Student"
+        self.university = "ENSA Fez 🇲🇦"
+        self.graduation = 2027
+        self.focus = [
+            "AI Engineering",
+            "LLMs, RAG & AI Agents",
+            "Machine Learning & Deep RL",
+            "Full Stack AI Applications"
+        ]
+        self.current_goal = "PFE Internship — 2027"
+
+    def mission(self):
+        return "Turn AI capabilities into useful, reliable software."
+```
+
+I'm a fifth-year engineering student specializing in **Software Engineering and Artificial Intelligence** at ENSA Fez, Morocco.
+
+I enjoy building intelligent applications that combine LLMs, retrieval systems, backend engineering, and interactive user experiences. My goal is to bridge AI experimentation and practical software engineering by creating systems that are useful, measurable, and maintainable.
+
+- **Currently pursuing:** AI Engineering, Generative AI and Machine Learning.
+- **Building:** Multilingual legal RAG systems and real-time conversational AI.
+- **Exploring:** Agentic workflows, LLM evaluation, local inference and Deep Reinforcement Learning.
+- **Looking for:** A **2027 end-of-studies internship (PFE)** in AI/ML or GenAI engineering.
+
+---
+
+## `01` — Technical Arsenal
+
 <div align="center">
-  <i>Conçu avec créativité par Ilyass EL-OGRI • N'hésitez pas à me contacter pour une opportunité PFE !</i>
+
+### Artificial Intelligence & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" alt="AI and machine learning technologies"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/RAG-Hybrid%20Retrieval-6366F1?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLMs-Agentic%20AI-8B5CF6?style=flat-square" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/Deep%20RL-DQN%20%7C%20A2C-7C3AED?style=flat-square" alt="Deep reinforcement learning"/>
+<img src="https://img.shields.io/badge/Evaluation-LangSmith-0EA5E9?style=flat-square" alt="LangSmith"/>
+
+`LangChain` · `LangGraph` · `CrewAI` · `Hugging Face` · `BM25` · `RRF` · `ChromaDB` · `Ollama` · `vLLM` · `MCP`
+
+### Frontend & Interactive Experiences
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,threejs&theme=dark" alt="Frontend technologies"/>
+
+`React 19` · `Next.js` · `GSAP` · `WebGL` · `Three.js` · `Zustand`
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,postgres,mysql,mongodb,prisma&theme=dark" alt="Backend and database technologies"/>
+
+`REST APIs` · `WebSockets` · `Microservices` · `Prisma`
+
+### DevOps & Engineering Tools
+
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,nginx,aws,postman&theme=dark" alt="Development and DevOps tools"/>
+
+`Docker Compose` · `GitHub Actions` · `Nginx` · `Postman`
+
+</div>
+
+---
+
+## `02` — Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ MoroccoLegalAI
+
+**Multilingual AI Legal Assistant**
+
+A legal assistant designed around Moroccan legal documents and a hybrid retrieval-augmented generation pipeline.
+
+- Semantic search + BM25.
+- Reciprocal Rank Fusion (RRF).
+- LangGraph orchestration.
+- Query rewriting and answer verification.
+- FastAPI backend and React frontend.
+- LangSmith tracing and evaluation.
+
+**Stack**
+
+`Python` `FastAPI` `LangGraph` `ChromaDB` `Ollama` `React`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ AI Voice Concierge
+
+**Real-Time Conversational AI**
+
+A bidirectional voice assistant combining conversational AI, backend tool execution and an immersive 3D interface.
+
+- Gemini 2.5 Native Audio integration.
+- Dynamic tool calling with six functional tools.
+- Average response time of approximately **800 ms**.
+- Reported tool-calling success rate of **90%**.
+- Real-time communication using WebSockets.
+- Dynamic facial expressions and 3D interactions.
+
+**Stack**
+
+`React 19` `NestJS` `PostgreSQL` `Gemini` `WebSockets` `GSAP` `WebGL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 NeuralX
+
+**Deep Reinforcement Learning Playground**
+
+A gaming platform with four environments for experimenting with and comparing reinforcement learning algorithms.
+
+- Q-Learning and SARSA.
+- Deep Q-Networks (DQN).
+- Advantage Actor-Critic (A2C).
+- Environment-based agent experimentation.
+
+**Stack**
+
+`Python` `Reinforcement Learning` `DQN` `A2C`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Me & Me
+
+**Intelligent E-Commerce & Recommendations**
+
+An e-commerce application integrating a Python recommendation service with a full stack web interface.
+
+- Content-based recommendations using TF-IDF.
+- Cosine similarity for item comparison.
+- Recommendation experiments involving clustering.
+- React interface with GSAP animations.
+- Flask microservice integrated with Express.
+
+**Stack**
+
+`React` `Express.js` `Flask` `Scikit-learn` `TF-IDF` `GSAP`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Explore my work and repositories**
+
+<a href="https://github.com/ILYASS2024-2004?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/>
+</a>
+
+</div>
+
+---
+
+## `03` — Professional Experience
+
+<details>
+<summary><strong>AI Voice Concierge — Yo Digital Space | July–September 2026</strong></summary>
+
+- Developed a real-time conversational voice assistant using Gemini 2.5 Native Audio.
+- Integrated dynamic tool calling with backend services.
+- Built a 3D interactive interface with real-time communication.
+- Worked with React, NestJS, PostgreSQL, Prisma and WebSockets.
+
+</details>
+
+<details>
+<summary><strong>Full Stack Developer Intern — LearNovia | June–July 2025</strong></summary>
+
+- Contributed to the development of an educational platform.
+- Implemented role-based functionality for administrators, teachers and students.
+- Worked on course management, progress tracking, assessments, payments and notifications.
+- Used React, Express.js, MySQL, Stripe and Nodemailer.
+
+</details>
+
+---
+
+## `04` — GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ILYASS2024-2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=818CF8" alt="GitHub statistics"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ILYASS2024-2004&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=818CF8&currStreakLabel=818CF8" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILYASS2024-2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818CF8" alt="Most used programming languages"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ILYASS2024-2004&bg_color=0D1117&color=A5B4FC&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## `05` — Certifications
+
+- **IBM RAG and Agentic AI Professional Certificate** — Coursera
+- **AWS Academy Graduate — Cloud Foundations** — Amazon Web Services
+- **Agile with Atlassian Jira** — Coursera
+
+---
+
+## `06` — Beyond the Code
+
+- **Languages:** Arabic (Native), French, English.
+- **Interests:** AI systems, intelligent agents, interactive 3D experiences and software architecture.
+- **Portfolio:** [ilyasselogri.me](https://ilyasselogri.me)
+- **Location:** Fez, Morocco.
+
+---
+
+<div align="center">
+
+### Let's build something intelligent.
+
+*Open to 2027 PFE opportunities in AI Engineering, GenAI, RAG and Machine Learning.*
+
+<a href="mailto:ilyasselogri361@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Connect-Get%20in%20Touch-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Ilyass"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:312E81,100:0D1117&height=100&section=footer" width="100%" alt="Footer banner"/>
+
+<sub>Designed with curiosity, built with code, powered by AI.</sub>
+
 </div>
