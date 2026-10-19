@@ -231,8 +231,6 @@ An e-commerce application integrating a Python recommendation service with a ful
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ILYASS2024-2004&bg_color=0D1117&color=A5B4FC&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
-
 </div>
 
 ---
